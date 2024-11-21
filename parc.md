@@ -35,9 +35,9 @@ class CSClass
 
 [README](README.md)
 
-![さかな～](image/sakana.jpg)
+![さかな～](image/sakana.JPG)
 
-<img src="image/sakana.jpg" style="width:160px" alt="さかな～">
+<img src="image/sakana.JPG" style="width:160px" alt="さかな～">
 
  - ジョージワシントン
  - ジョンアダムス
