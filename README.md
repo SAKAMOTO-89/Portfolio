@@ -26,7 +26,7 @@
 ### GalaxySTELLA
 <img src="images/galaxy2.png" alt="Wall Walker" style="height: 360px">
 
-[GalaxySTELLA]
+[GalaxySTELLA](リンク)
 
 侵略してくる地球外生命体を倒していく2Dシューティングゲーム。
 
@@ -38,7 +38,7 @@
 ### 水中探索
 <img src="images/underwater.png" alt="水中探索" style="height: 360px">
 
-[水中探索]
+[水中探索](リンク)
 
 相棒のドローンで敵を倒しながら進んでいく、横スクロールアクション。
 
@@ -47,9 +47,9 @@
 - Mind Renderにて公開中
 
 ### 競馬場さんぽ
-<img src="images/keiba.png" alt="競馬場さんぽ![File](images/file.png)" style="height: 360px">
+<img src="images/keiba.png" alt="競馬場さんぽ" style="height: 360px">
 
-[競馬場さんぽ]
+[競馬場さんぽ](リンク)
 
 - 開発言語：HTML
 - 開発期間：2023/9/24-2023/11/23
