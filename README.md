@@ -24,7 +24,7 @@
 ## 作品リスト
 
 ### GalaxySTELLA
-[<img src="images/galaxy2.png" alt="Wall Walker" style="height: 360px">](https://am1tanaka.itch.io/wall-walker)
+[<img src="images/galaxy2.png" alt="Wall Walker" style="height: 360px">]
 
 [GalaxySTELLA](リンク)
 
@@ -36,8 +36,7 @@
 - サポートとして参加し、背景のスクロールと敵のスポナーのシステムを担当。
 
 ### 水中探索
-[<img src="images/underwater.png" alt="水中探索" style="height: 360px">](https://unityroom.com/games/shobako)
-
+[<img src="images/underwater.png" alt="水中探索" style="height: 360px">]
 [リンク](リンク)
 
 相棒のドローンで敵を倒しながら進んでいく、横スクロールアクションです。
