@@ -37,6 +37,7 @@
 
 ### 水中探索
 [<img src="images/underwater.png" alt="水中探索" style="height: 360px">]
+
 [リンク](リンク)
 
 相棒のドローンで敵を倒しながら進んでいく、横スクロールアクションです。
