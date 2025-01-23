@@ -81,7 +81,7 @@
 ### 三送会
 <img src="images/sannsoukai.png" alt="三送会" style="height: 360px">
 
-[三送会](リンク)
+[三送会](https://drive.google.com/file/d/1iCfl2gja9vplBYmSSZwu5W2U0gvNNcYy/view?usp=sharing)
 
 - 開発環境：VideoProc Vlogger
 - 開発期間：2023/2/18-2023/3/10
