@@ -72,7 +72,7 @@
 ### 競馬場さんぽ
 <img src="images/keiba.png" alt="競馬場さんぽ" style="height: 360px">
 
-[競馬場さんぽ](keiba/)
+[競馬場さんぽ](keiba/index.html)
 
 - 開発言語：HTML
 - 開発期間：2023/9/24-2023/11/23
