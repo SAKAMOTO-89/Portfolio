@@ -48,7 +48,7 @@
 ### Clearing(仮)企画書
 <img src="images/Clearing.png" alt="Clearing(仮)企画書" style="height: 360px">
 
-[Clearing(仮)企画書](リンク)
+[Clearing(仮)企画書](Clearing_Plan.pdf)
 
 汚れと敵を<お掃除>する、4対4のアクションシューティングゲーム。
 
@@ -72,7 +72,7 @@
 ### 競馬場さんぽ
 <img src="images/keiba.png" alt="競馬場さんぽ" style="height: 360px">
 
-[競馬場さんぽ](file:///C:/Users/gp0/Documents/ProjectSaka/saka%E3%81%AEHighSchool/web%E3%83%9A%E3%83%BC%E3%82%B8/0204sakamoto/index.html)
+[競馬場さんぽ](リンク)
 
 - 開発言語：HTML
 - 開発期間：2023/9/24-2023/11/23
