@@ -1,5 +1,3 @@
-# Portfolio
-
 - 坂本 博斗
 - 連絡先 Email [sakamodat.1.2.2@gmail.com](sakamodat.1.2.2@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2026年卒業予定
@@ -46,6 +44,16 @@
 - 開発期間：2024/8/23-2024/9/5
 - Mind Renderにて公開中
 
+### Clearing(仮)企画書
+<img src="images/Clearing.png" alt="Clearing(仮)企画書" style="height: 360px">
+
+[Clearing(仮)企画書](リンク)
+
+汚れと敵を<お掃除>する、4対4のアクションシューティングゲーム。
+
+- 開発環境：Power Point
+- 開発期間：2024/11/15-2024/1/10
+
 ### 競馬場さんぽ
 <img src="images/keiba.png" alt="競馬場さんぽ" style="height: 360px">
 
@@ -54,6 +62,15 @@
 - 開発言語：HTML
 - 開発期間：2023/9/24-2023/11/23
 - 高校生のときに授業の課題としてwebページを作成
+
+### 三送会
+<img src="images/sannsoukai.png" alt="三送会" style="height: 360px">
+
+[三送会](リンク)
+
+- 開発言語：HTML
+- 開発期間：2023/2/18-2023/3/10
+- 高校生のときに
 
 
 ## 連絡先
