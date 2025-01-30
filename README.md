@@ -25,7 +25,7 @@
 ### GalaxySTELLA
 <img src="images/galaxy2.png" alt="Wall Walker" style="height: 360px">
 
-[GalaxySTELLA](リンク)
+GalaxySTELLA
 
 侵略してくる地球外生命体を倒していく2Dシューティングゲーム。
 
@@ -37,7 +37,7 @@
 ### 水中探索
 <img src="images/underwater.png" alt="水中探索" style="height: 360px">
 
-[水中探索](リンク)
+[水中探索](https://share.mindrender.app/locker.html?key=PfacZMkIQ3MGDSsY4fcCGsJUGVk2agDW5X0fnbVuY4DAqmjTwsm42mlRV5QEWPiN)
 
 相棒のドローンで敵を倒しながら進んでいく、横スクロールアクション。
 
