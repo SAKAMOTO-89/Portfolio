@@ -87,6 +87,11 @@ GalaxySTELLA
 - 開発環境：VideoProc Vlogger
 - 開発期間：2023/2/18-2023/3/10
 - 高校生のときに後輩に依頼され、別のハウスの3年次へ向け作成
+- 背景素材
+- 黒板：みんちりえ（ https://min-chi.material.jp/ ）
+- 立ち絵 & 声
+- VOICEVOX:ずんだもん
+- VOICEVOX:四国めたん
 
 
 ## 連絡先
