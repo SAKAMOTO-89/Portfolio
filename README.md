@@ -44,6 +44,7 @@ GalaxySTELLA
 - 開発環境：Mind Render ver2.2.27.0
 - 開発期間：2024/8/23-2024/9/5
 - Mind Renderにて公開中
+- 共有キー：WaterExplore
 
 ### Clearing(仮)企画書
 <img src="images/Clearing.png" alt="Clearing(仮)企画書" style="height: 360px">
