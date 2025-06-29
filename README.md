@@ -46,52 +46,38 @@ GalaxySTELLA
 - Mind Renderにて公開中
 - 共有キー：WaterExplore
 
-### Clearing(仮)企画書
-<img src="images/Clearing.png" alt="Clearing(仮)企画書" style="height: 360px">
+### ミジバク!!!
+<img src="images/underwater.png" alt="ミジバク!!!" style="height: 360px">
 
-[Clearing(仮)企画書](Clearing_Plan.pdf)
+[ミジバク!!!](https://share.mindrender.app/locker.html?key=PfacZMkIQ3MGDSsY4fcCGsJUGVk2agDW5X0fnbVuY4DAqmjTwsm42mlRV5QEWPiN)
 
-汚れと敵を<お掃除>する、4対4のアクションシューティングゲーム。
+敵を操作するシューティングアクション。
 
-- 開発環境：Power Point
-- 開発期間：2024/11/15-2024/1/10
-- あらすじ<br>
-　<blockquote>あらゆる人たちによって放置されたこの世界…<br>
-　ときには、インクをまき散らされたまま、<br>
-　またときには、大乱闘の跡が残ったまま、<br>
-　そしてまたときには、壺を蹴り割られ、本棚は奪われたまま、<br>
-　こんな世界でもまた来る人たちのために<br>
-　綺麗に＜お掃除＞しなければなりません。<br><br>
-　何も掃除だけをすればいいとは言っていません。<br>
-　中には掃除の仕事を奪ってくるモノたちもいます。<br>
-　そのモノたちよりも綺麗にするか<br>
-　そのモノたちを綺麗にするか<br>
-　それはあなたの選択次第です。<br><br>
-　それでは、楽しい＜お掃除＞ライフを・・・<br></blockquote>
+- 開発環境：Unity6000.0.44f1
+- 開発期間：2025/6/11-2025/6/27
+- 個人製作作品。
+- BGM,SE : 魔王魂様
+- URL [ https://maou.audio/ ]
+- 背景素材 : Kenny様
+- URL [ https://kenney.nl/ ]
+- キャラクター素材 : イラストAC様
+- URL [ https://www.ac-illust.com/ ]
+- フォント：ヤマナカデザインワークス「ヤデワのジ」
+- URL [ https://ymnk-design.booth.pm/items/6334651  ]
+
+### ハコニワールド(試作版)
+<img src="images/underwater.png" alt="ハコニワールド(試作版)" style="height: 360px">
+
+[ハコニワールド(試作版)](https://share.mindrender.app/locker.html?key=PfacZMkIQ3MGDSsY4fcCGsJUGVk2agDW5X0fnbVuY4DAqmjTwsm42mlRV5QEWPiN)
+
+小さいマップを把握してギミックを解き、
+ゴールを目指すポップなアクションゲーム。
 
 
-### 競馬場さんぽ
-<img src="images/keiba.png" alt="競馬場さんぽ" style="height: 360px">
-
-[競馬場さんぽ](keiba/index.html)
-
-- 開発言語：HTML
-- 開発期間：2023/9/24-2023/11/23
-- 高校生のときに授業の課題としてwebページを作成
-
-### 三送会
-<img src="images/sannsoukai.png" alt="三送会" style="height: 360px">
-
-[三送会](https://drive.google.com/file/d/1iCfl2gja9vplBYmSSZwu5W2U0gvNNcYy/view?usp=sharing)
-
-- 開発環境：VideoProc Vlogger
-- 開発期間：2023/2/18-2023/3/10
-- 高校生のときに後輩に依頼され、別のハウスの3年次へ向け作成
-- 背景素材
-- 黒板：みんちりえ（ https://min-chi.material.jp/ ）
-- 立ち絵 & 声
-- VOICEVOX:ずんだもん
-- VOICEVOX:四国めたん
+- 開発環境：Unity6000.0.44f1
+- 開発期間：2025/4/14-2025/6/26
+- 制作人数：4人
+- 担当箇所：キャラクターの移動、カメラ操作、敵や床のギミックを担当。
 
 
 ## 連絡先
