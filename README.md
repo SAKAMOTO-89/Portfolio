@@ -5,13 +5,13 @@
 
 ## スキル
 - C#
-  - 利用歴半年
+  - 利用歴1年
   - Visual Studioで簡単なプログラムを開発可能
 - Unity
-  - 利用歴半年
-  - チーム作品の開発経験あり
+  - 利用歴1年
+  - チーム、個人での開発経験あり
 - C/C++
-  - 利用歴半年
+  - 利用歴1年
   - コンソールで簡単なデータ処理プログラムを開発
 - HTML
   - 利用歴1年
@@ -47,9 +47,9 @@ GalaxySTELLA
 - 共有キー：WaterExplore
 
 ### ミジバク!!!
-<img src="images/underwater.png" alt="ミジバク!!!" style="height: 360px">
+<img src="images/WaterFlea.png" alt="ミジバク!!!" style="height: 360px">
 
-[ミジバク!!!](https://share.mindrender.app/locker.html?key=PfacZMkIQ3MGDSsY4fcCGsJUGVk2agDW5X0fnbVuY4DAqmjTwsm42mlRV5QEWPiN)
+ミジバク!!!
 
 敵を操作するシューティングアクション。
 
@@ -58,6 +58,8 @@ GalaxySTELLA
 - 個人製作作品。
 - BGM,SE : 魔王魂様
 - URL [ https://maou.audio/ ]
+- BGM,SE : フリーBGM DOVA-SYNDROME様
+- URL [ https://dova-s.jp/ ]
 - 背景素材 : Kenny様
 - URL [ https://kenney.nl/ ]
 - キャラクター素材 : イラストAC様
@@ -68,7 +70,7 @@ GalaxySTELLA
 ### ハコニワールド(試作版)
 <img src="images/underwater.png" alt="ハコニワールド(試作版)" style="height: 360px">
 
-[ハコニワールド(試作版)](https://share.mindrender.app/locker.html?key=PfacZMkIQ3MGDSsY4fcCGsJUGVk2agDW5X0fnbVuY4DAqmjTwsm42mlRV5QEWPiN)
+ハコニワールド(試作版)
 
 小さいマップを把握してギミックを解き、
 ゴールを目指すポップなアクションゲーム。
