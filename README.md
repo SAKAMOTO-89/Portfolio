@@ -55,7 +55,7 @@ GalaxySTELLA
 
 - 開発環境：Unity6000.0.44f1
 - 開発期間：2025/6/11-2025/6/29
-- 個人製作作品。
+- 個人製作作品。unityroomにて一般公開中
 - BGM,SE : 魔王魂様
 - URL [ https://maou.audio/ ]
 - BGM,SE : フリーBGM DOVA-SYNDROME様
@@ -68,7 +68,7 @@ GalaxySTELLA
 - URL [ https://ymnk-design.booth.pm/items/6334651  ]
 
 ### ハコニワールド(試作版)
-<img src="images/underwater.png" alt="ハコニワールド(試作版)" style="height: 360px">
+<img src="images/HakoniWorld.png" alt="ハコニワールド(試作版)" style="height: 360px">
 
 ハコニワールド(試作版)
 
