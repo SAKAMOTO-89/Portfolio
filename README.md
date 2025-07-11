@@ -49,9 +49,9 @@ GalaxySTELLA
 ### ミジバク!!!
 <img src="images/WaterFlea.png" alt="ミジバク!!!" style="height: 360px">
 
-ミジバク!!!
+ミジバク!!!(https://unityroom.com/games/mizibaku)
 
-敵を操作するシューティングアクション。
+敵を操作する2Dシューティングアクション。
 
 - 開発環境：Unity6000.0.44f1
 - 開発期間：2025/6/11-2025/6/29
@@ -64,7 +64,7 @@ GalaxySTELLA
 - URL [ https://kenney.nl/ ]
 - キャラクター素材 : イラストAC様
 - URL [ https://www.ac-illust.com/ ]
-- フォント：ヤマナカデザインワークス「ヤデワのジ」
+- フォント：ヤマナカデザインワークス様「ヤデワのジ」
 - URL [ https://ymnk-design.booth.pm/items/6334651  ]
 
 ### ハコニワールド(試作版)
