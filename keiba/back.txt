@@ -1,7 +1,0 @@
-<html>
-<head>
-<title>back</title>
-</head>
-<body bgcolor="green">
-</body>
-</html>
