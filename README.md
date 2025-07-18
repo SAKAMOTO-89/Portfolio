@@ -25,7 +25,7 @@
 ### GalaxySTELLA
 <img src="images/galaxy2.png" alt="Wall Walker" style="height: 360px">
 
-GalaxySTELLA
+[GalaxySTELLA](https://unityroom.com/games/galaste)
 
 侵略してくる地球外生命体を倒していく2Dシューティングゲーム。
 
